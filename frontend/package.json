@@ -50,7 +50,7 @@
         "pinia-plugin-persistedstate": "^1.6.1",
         "qs": "^6.12.1",
         "screenfull": "^6.0.2",
-        "unplugin-vue-define-options": "^0.7.3",
+        "unplugin-vue-define-options": "^0.12.8",
         "uuid": "^10.0.0",
         "vue": "^3.4.27",
         "vue-clipboard3": "^2.0.0",
